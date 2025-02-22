@@ -1,4 +1,4 @@
-Stock Search App
+Stock Search App  [ App Video Link: https://youtu.be/KG9roxuPDD8  ] 
 
 Overview
 
